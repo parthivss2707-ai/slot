@@ -34,7 +34,7 @@ Execute the program using runserver command.
     <title>Time Table</title>
 </head>
 <body bgcolor="lightblue">
-    <img src="logo.png"  height="100" width="900" hspace="315">
+    <img src="/static/logo.png"  height="100" width="900" hspace="315">
 <caption><h2 align="center">TIME TABLE - PARTHIV S S(26017549)</h2></caption>
 
 
@@ -194,7 +194,7 @@ Execute the program using runserver command.
 ```
 
 ## OUTPUT
-![alt text](image.png)
+![alt text](<Screenshot (41).png>)
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
