@@ -29,16 +29,17 @@ Execute the program using runserver command.
 ## PROGRAM
 ```
 
+
 <html>
 <head>
     <title>Time Table</title>
 </head>
 <body bgcolor="lightblue">
-    <img src="/static/logo.png"  height="100" width="900" hspace="315">
+    <img src="/static/logo.png"  height="135" width="900" hspace="315">
 <caption><h2 align="center">TIME TABLE - PARTHIV S S(26017549)</h2></caption>
 
 
-<table border="2" align="center" cellpadding="2" cellspacing="3" height="200" width="800">
+<table border="2" align="center" cellpadding="2" cellspacing="3" height="135" width="800">
 
     <tr bgcolor="yellow">
 
@@ -54,7 +55,7 @@ Execute the program using runserver command.
 
     <tr bgcolor="cyan">
 
-        <th bgcolor="yellow">8.00 TO 9.30</th>
+        <th bgcolor="yellow">8.00am TO 9.30am</th>
         <td align="center">FCC</td>
         <td align="center">PY</td>
         <td align="center">FWAD</td>
@@ -66,7 +67,7 @@ Execute the program using runserver command.
 
     <tr bgcolor="cyan">
 
-        <th bgcolor="yellow">9.45 TO 11.15</th>
+        <th bgcolor="yellow">9.45am TO 11.15am</th>
         <td align="center">FWAD</td>
         <td align="center"bgcolor="violet">FREE</td>
         <td align="center"bgcolor="violet">FREE</td>
@@ -78,14 +79,14 @@ Execute the program using runserver command.
 
     <tr bgcolor="cyan">
 
-        <th bgcolor="yellow">11.30 TO 1.00</th>
+        <th bgcolor="yellow">11.30am TO 1.00pm</th>
         <td colspan="6" align="center" bgcolor="lightgray">L U N C H / ECA-SCOFT-M</td>
 
     </tr>
 
     <tr bgcolor="cyan">
 
-        <th bgcolor="yellow">1.15 TO 2.45</th>
+        <th bgcolor="yellow">1.15pm TO 2.45pm</th>
         <td align="center">PY</td>
         <td align="center">FWAD</td>
         <td align="center"bgcolor="violet">FREE</td>
@@ -97,7 +98,7 @@ Execute the program using runserver command.
 
     <tr bgcolor="cyan">
 
-        <th bgcolor="yellow">3.00 TO 4.30</th>
+        <th bgcolor="yellow">3.00pm TO 4.30pm</th>
         <td align="center">DE</td>
         <td align="center"bgcolor="violet">FREE</td>
         <td align="center">EDM</td>
@@ -113,7 +114,7 @@ Execute the program using runserver command.
 
 
 
-<table border="2"  cellspacing="3" align="center" cellpadding="2"  height="200" width="800">
+<table border="2"  cellspacing="3" align="center" cellpadding="2"  height="135" width="800">
 
     <tr bgcolor="yellow">
 
@@ -191,10 +192,11 @@ Execute the program using runserver command.
 
 </body>
 </html>
+
 ```
 
 ## OUTPUT
-![alt text](<Screenshot (41).png>)
+![alt text](<Screenshot (42).png>)
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
